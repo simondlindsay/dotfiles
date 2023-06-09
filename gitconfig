@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = simon.lindsay.sl@gmail.com
+	name = Simon Lindsay
